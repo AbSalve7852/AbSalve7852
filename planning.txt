@@ -1,0 +1,23 @@
+1.create structure
+2.create a npm project and install 
+*dependencies
+- express
+-ejs express-ejs-layout
+*dev dependencies
+-nodemon
+
+create a express server - create  a  server.js file
+git setup and first commit
+
+install laravel mix
+    -setup js and scss
+    
+create  homepage using html and css
+    include tailwidn css
+create cart page
+    order summary section 
+    empty cart section
+create order controller and linked in server.js
+create order views with  table for customers and admin
+create order single page with status
+create login page with route
